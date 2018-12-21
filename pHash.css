@@ -1,0 +1,37 @@
+.reveal
+{
+    font-size: 24px;
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    font-family: "Ricty", monospace;
+}
+
+.reveal h1 {
+    text-align: top;
+    color: navy;
+}
+
+/* slide background */
+.reveal
+{
+    background-color: #EEE;
+}
+
+/* code block */
+.reveal code
+{
+    background-color: transparent;
+    color: black;
+    font-size: 80%;
+}
+
+/* table */
+.reveal table th, .reveal table td {
+    color: black;
+    font-size: 30px;
+    margin: auto;
+    padding: 0.2em 0.5em 0.2em 0.5em;
+}
+
+.reveal hr {
+    color: black;
+}
